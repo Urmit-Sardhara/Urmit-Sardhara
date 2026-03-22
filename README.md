@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sardhara-urmit\&label=Profile%20views\&color=0e75b6\&style=flat)
 
 💻 BCA Student
-🚀 Learning Full Stack Development
+🚀 Learning Full Stack Development {MERN}
 🌐 Projects deployed on Netlify
 📚 Passionate about building modern web applications
 
