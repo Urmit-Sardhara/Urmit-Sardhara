@@ -11,10 +11,11 @@
 
 ## 🛠 Tech Stack
 
-* HTML
-* CSS
-* JavaScript (Learning DSA)
+* HTML5
+* CSS3
+* JavaScript (with DSA)
 * React 
+* = = = = =
 * C++
 * C#
 * Java
