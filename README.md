@@ -39,8 +39,8 @@ https://encode-king.netlify.app
 🔓 Decode Tool
 https://decode-king.netlify.app
 
-🏫 GT Kolithad Website
-https://gt-kolithad.netlify.app
+🏫 Ecommarce Website
+https://giriraj-tailor.netlify.app/
 
 📖 B.C.A. Sem-3 Old Paper
 https://bca-sem-3-paper.netlify.app
