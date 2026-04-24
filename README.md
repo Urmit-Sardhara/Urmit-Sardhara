@@ -3,8 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sardhara-urmit\&label=Profile%20views\&color=0e75b6\&style=flat)
 
 
-🚀 Learning Full Stack Development {MERN}
-🌐 Projects deployed 
+🚀 Full Stack Developer {MERN}
+
 📚 Passionate about building modern web applications
 
 ---
