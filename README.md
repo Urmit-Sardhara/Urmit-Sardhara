@@ -70,7 +70,7 @@ https://urmit-converter.netlify.app/
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/sardhara-urmit/Urmit-Sardhara/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Urmit-Sardhara/Urmit-Sardhara/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
