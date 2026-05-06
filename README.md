@@ -55,7 +55,7 @@ https://urmit-converter.netlify.app/
 ⚛️ Modern UI Project With React
 🌐 https://urmit-ui.vercel.app/  <br>
 ⚠️ This site is currently optimized for Desktop.💻<br>
- Mobile version coming soon!
+📱 Mobile Support: 🚧 Coming Soon
 
 
 
