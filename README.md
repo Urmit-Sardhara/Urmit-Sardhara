@@ -75,6 +75,10 @@ https://urmit-note.vercel.app/
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Urmit-Sardhara&theme=tokyonight)
+## test
+![GitHub stats](https://github-readme-stats-one.vercel.app/api?username=Urmit-Sardhara&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Urmit-Sardhara&layout=compact&theme=tokyonight)
 
 ## 🐍 Contribution Snake
 
