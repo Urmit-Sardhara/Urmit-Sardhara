@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+## 🛠 Tech Stack
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
 ---
 
 ## 🌐 My Projects
