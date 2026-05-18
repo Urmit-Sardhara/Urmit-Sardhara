@@ -15,6 +15,7 @@
 * CSS3
 * JavaScript (with DSA)
 * React 
+* Tailwin-Css
 * = = = = =
 * C++
 * C#
@@ -39,7 +40,7 @@ https://encode-king.netlify.app
 🔓 Decode Tool
 https://decode-king.netlify.app
 
-🏫 Ecommarce Website
+🏫 E-commerce Website
 https://giriraj-tailor.netlify.app/
 
 📖 B.C.A. Sem-3 Old Paper
@@ -51,9 +52,11 @@ https://bca-sem-4-paper.netlify.app
 💱 Currency Converter 
 https://urmit-converter.netlify.app/
 
-
 ⚛️ Modern UI Project With React
 🌐 https://urmit-ui.vercel.app/ 
+
+🗒️ Note App 📌
+https://urmit-note.vercel.app/
 
 
 
