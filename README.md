@@ -82,9 +82,24 @@ https://urmit-gallery.vercel.app/
 
 
 ![GitHub stats](https://github-readme-stats-one.vercel.app/api?username=Urmit-Sardhara&show_icons=true&theme=tokyonight)
-![Header](https://capsule-render.vercel.app/type=waving&color=auto&theme=tokyonight&section=header&text=Urmit%20Sardhara&fontSize=90)
-![GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Urmit-Sardhara&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
+<!-- 1. Dynamic Typing Effect Header (Capsule Render ka substitute) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Urmit+Sardhara" alt="Typing SVG" />
+</p>
+
+<!-- 2. GitHub Profile Trophies (Jo tokyonight theme ke sath perfectly match karega) -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Urmit-Sardhara&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<!-- 3. GBRS (GitHub Readme Streak Stats) - Ye live data show karega -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urmit-Sardhara&theme=tokyonight" alt="GitHub Streak" />
+</p>
 ---
 
 ## 💻 Top Languages
