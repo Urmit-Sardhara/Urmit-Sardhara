@@ -1,6 +1,6 @@
 # ⚜️ Urmit Sardhara ⚜️
 
-![Profile Views](https://komarev.com/ghpvc/?username=Urmit-Sardhara\&label=Profile%20views\&color=0e75b6\&style=flat)~
+![Profile Views](https://komarev.com/ghpvc/?username=Urmit-Sardhara\&label=Profile%20views\&color=0e75b6\&style=flat)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Urmit+Sardhara" alt="Typing SVG" />
