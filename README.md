@@ -5,7 +5,7 @@
 
 <!-- 1. Dynamic Typing Effect Header (Capsule Render ka substitute) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=⚜️+Urmit+Sardhara+⚜️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Urmit+Sardhara" alt="Typing SVG" />
 </p>
 
 🚀 Full Stack Developer {MERN}
