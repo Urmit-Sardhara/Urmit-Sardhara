@@ -81,9 +81,9 @@ https://urmit-gallery.vercel.app/
 ## 📊 GitHub Stats
 
 
-<!-- ![GitHub stats](https://github-readme-stats-one.vercel.app/api?username=Urmit-Sardhara&show_icons=true&theme=tokyonight) -->
-[![github trophy](https://github-profile-trophy.vercel.app/?username=Urmit-Sardhara&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
+![GitHub stats](https://github-readme-stats-one.vercel.app/api?username=Urmit-Sardhara&show_icons=true&theme=tokyonight)
+![Header](https://capsule-render.vercel.app/type=waving&color=auto&theme=tokyonight&section=header&text=Urmit%20Sardhara&fontSize=90)
+![GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Urmit-Sardhara&show_icons=true&theme=tokyonight)
 
 ---
 
