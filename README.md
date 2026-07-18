@@ -87,13 +87,11 @@ https://urmit-gallery.vercel.app/
 
 
 ![GitHub stats](https://github-readme-stats-one.vercel.app/api?username=Urmit-Sardhara&show_icons=true&theme=tokyonight)
-## 📊 GitHub Stats
 
 
 
-
-<!-- 3. GBRS (GitHub Readme Streak Stats) - Ye live data show karega -->
-<p align="center">
+<!-- 3. GBRS (GitHub Readme Streak Stats) -->
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urmit-Sardhara&theme=tokyonight" alt="GitHub Streak" />
 </p>
 ---
