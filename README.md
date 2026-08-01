@@ -59,6 +59,7 @@
 * ⚛️ **Urmit-UI (Modern React UI):** [Live Link](https://urmit-ui.vercel.app/)
 * 🗒️ **Note App 📌:** [Live Link](https://urmit-note.vercel.app/)
 * 🖼️ **Urmit-Gallery ✨:** [Live Link](https://urmit-gallery.vercel.app/)
+* 📸 **Postingo-MERN_APP ✨:** [Live Link](https://postingo.vercel.app/)
 
 ---
 
