@@ -62,13 +62,6 @@
 * 📸 **Postingo-MERN_APP ✨:** [Live Link](https://postingo.vercel.app/)
 ---
 
-### 🔒 License & Copyright
-
-All Rights Reserved. Copyright (c) 2026 Urmit Sardhara.
-
-This profile and its featured repositories are private/personal property. Unauthorized copying, modification, or distribution of this source code via any medium is strictly prohibited.
-
----
 
 ## 📊 GitHub Stats
 
